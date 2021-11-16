@@ -5,21 +5,14 @@ Tugas Pertemuan ke-7
 
 1. langkah pertama membuat fungsi main() agar kode nudah dipelihara dan reusable
 2. kita membutuhkan 3 variabel dalam kasus ini adalah ‘a‘, ‘b‘, ‘maks‘ untuk menampung nilai yang akan diinput oleh user lalu input yang tadinya string di konversi ke integer menggunakan fungsi build-in int() & menentukan input user
-langkah selanjutnya kita bandingkan dengan operator ‘ > ‘ lalu kita cek dengan if else seperti ini:
-Menentukan Nilai Bilangan  dengan if else
-   if a > b:
-       maks = a
-   else:
-       maks = b
-
-nah nilai yang tadi kita bandingkan kita tampung di variabel ‘maks’ yang nilainya berubah ubah berdasarkan nilai a dan b:
-mencetak nilai maksimum
-print('Nilai Terbesar adalah %d' % maks)
+3. langkah selanjutnya kita bandingkan dengan operator ‘ > ‘ lalu kita cek dengan if else & Menentukan Nilai Bilangan  dengan if else
+4. nilai yang tadi kita bandingkan kita tampung di variabel ‘maks’ yang nilainya berubah ubah berdasarkan nilai a dan b & mencetak nilai maksimum
 
 
 #Lab2 Latihan 2 (Program Mengurutkan Data dari yag Terkecil hingga Terbesar Berdasarkan 3 Inputan):
-def menunjukan fungsi mengurutkan data yang diinput
-def pengulangan():
+
+1. def menunjukan fungsi mengurutkan data yang diinput
+2. def pengulangan():
     print ('Program Mengurutkan Data')
     a=int(input('bilangan ke 1 = '))
     b=int(input('bilangan ke 2 = '))
