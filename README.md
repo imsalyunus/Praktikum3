@@ -25,10 +25,9 @@ Tugas Pertemuan ke-7
 
 #Lab3 Latihan 2 (Program Menampilkan Bilangan Acak yang lebih kecil dari 0,5):
 
-1.Memasukan/ import fungsi RANDOM terlebih dahulu
-2.Deklarasi integer , masukkan jumlah n
-3.Memasukan deskripsi kombinasi for untuk menyelesaikannya.
-4.Memasukan nilai jumlah (n)
-5.Mencetak data ke 1 sampai 5 dengan hasil nilai kurang dari 0,5.
-6.Selesai
+1. Memasukan/ import fungsi RANDOM terlebih dahulu
+2. Deklarasi integer masukkan jumlah n
+3. Memasukan deskripsi kombinasi for untuk menyelesaikannya
+4. Memasukan nilai jumlah (n)
+5. Mencetak data ke 1 sampai 5 dengan hasil nilai kurang dari 0,5
     
