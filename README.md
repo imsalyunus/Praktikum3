@@ -2,8 +2,9 @@
 Tugas Pertemuan ke-7
 
 #Lab2 Latihan 1 (Program Menentukan bilangan terbesar dari 2 buah bilangan):
-    1. langkah pertama membuat fungsi main() agar kode nudah dipelihara dan reusable
-    2. kita membutuhkan 3 variabel dalam kasus ini adalah ‘a‘, ‘b‘, ‘maks‘ untuk menampung nilai yang akan diinput oleh user lalu input yang tadinya string di konversi ke integer menggunakan fungsi build-in int() & menentukan input user
+
+1. langkah pertama membuat fungsi main() agar kode nudah dipelihara dan reusable
+2. kita membutuhkan 3 variabel dalam kasus ini adalah ‘a‘, ‘b‘, ‘maks‘ untuk menampung nilai yang akan diinput oleh user lalu input yang tadinya string di konversi ke integer menggunakan fungsi build-in int() & menentukan input user
 langkah selanjutnya kita bandingkan dengan operator ‘ > ‘ lalu kita cek dengan if else seperti ini:
 Menentukan Nilai Bilangan  dengan if else
    if a > b:
