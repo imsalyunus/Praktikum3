@@ -1,5 +1,4 @@
-# labspy02
-Tugas Pertemuan ke-7
+# Latihan Lab2 & Lab3 Tugas Pertemuan ke-7
 
 #Lab2 Latihan 1 (Program Menentukan bilangan terbesar dari 2 buah bilangan):
 
