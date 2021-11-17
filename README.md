@@ -49,4 +49,4 @@ Tugas Pertemuan ke-7
 14. bulan ke 5 mendapatkan laba 5%, sehingga modal dikali 5% = keuntungan
 15. Bulan ke 8 mmendapatkan laba 2% sehingga keuntungan menurun dari bulan sebelumnya, modal dikali 2% = keuntungan.
 16. Menghitung jumlah total laba dengan menjumlah keuntungan dari bulan ke 1 sampai bulan 8, hasilnya adalah total keuntungan yang didapat.
-17.Selesai
+17. Selesai
